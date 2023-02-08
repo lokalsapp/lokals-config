@@ -2,12 +2,16 @@
     "mainnet": {
       "deeplink": "lokals://",
       "api": "http://192.168.50.181:8080",
-      "message": ""
+      "message": "",
+      "privacy_policy": "https://lokals.ca/privacy",
+      "email": "hello@lokals.ca"
     },
     "testnet": {
         "deeplink": "lokals://",
         "api": "http://192.168.50.181:8080",
-        "message": ""
+        "message": "",
+        "privacy_policy": "https://lokals.ca/privacy",
+        "email": "hello@lokals.ca"
       }
   }
   
