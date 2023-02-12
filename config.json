@@ -9,7 +9,7 @@
     },
     "testnet": {
         "deeplink": "lokals://",
-        "api": "http://192.168.50.181:8080",
+        "api": "https://realtorca-372720.uc.r.appspot.com",
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
         "terms_conditions": "https://lokals.ca/terms-conditions.html",
