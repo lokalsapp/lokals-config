@@ -8,7 +8,7 @@
       "email": "hello@lokals.ca"
     },
     "testnet": {
-        "deeplink": "http://lokals.ca/redirect",
+        "deeplink": "http://lokals.ca/redirect/index.html",
         "api": "https://lokalsrestapi-dot-realtorca-372720.uc.r.appspot.com",
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
