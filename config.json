@@ -14,6 +14,14 @@
         "privacy_policy": "https://lokals.ca/privacy.html",
         "terms_conditions": "https://lokals.ca/terms-conditions.html",
         "email": "hello@lokals.ca"
+    },
+    "local": {
+        "deeplink": "http://lokals.ca/redirect/index.html",
+        "api": "http://192.168.50.201:8080",
+        "message": "",
+        "privacy_policy": "https://lokals.ca/privacy.html",
+        "terms_conditions": "https://lokals.ca/terms-conditions.html",
+        "email": "hello@lokals.ca"
       }
   }
   
