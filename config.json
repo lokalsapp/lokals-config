@@ -9,7 +9,7 @@
     },
     "testnet": {
         "deeplink": "http://lokals.ca/redirect/index.html",
-        "api": "https://lokalsrestapi-dot-realtorca-372720.uc.r.appspot.com",
+        "api": "https://orca-app-8a8op.ondigitalocean.app",
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
         "terms_conditions": "https://lokals.ca/terms-conditions.html",
