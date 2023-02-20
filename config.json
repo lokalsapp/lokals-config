@@ -5,7 +5,9 @@
       "message": "",
       "privacy_policy": "https://lokals.ca/privacy.html",
       "terms_conditions": "https://lokals.ca/terms-conditions.html",
-      "email": "hello@lokals.ca"
+      "email": "hello@lokals.ca",
+      "appStoreUrl": "https://apps.apple.com/us/app/lokals-app/id1671672859",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pbdefyne.lokals&pli=1"
     },
     "testnet": {
         "deeplink": "http://lokals.ca/redirect/index.html",
@@ -13,7 +15,9 @@
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
         "terms_conditions": "https://lokals.ca/terms-conditions.html",
-        "email": "hello@lokals.ca"
+        "email": "hello@lokals.ca",
+        "appStoreUrl": "https://apps.apple.com/us/app/lokals-app/id1671672859",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pbdefyne.lokals&pli=1"
     },
     "local": {
         "deeplink": "http://lokals.ca/redirect/index.html",
@@ -21,7 +25,9 @@
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
         "terms_conditions": "https://lokals.ca/terms-conditions.html",
-        "email": "hello@lokals.ca"
+        "email": "hello@lokals.ca",
+        "appStoreUrl": "https://apps.apple.com/us/app/lokals-app/id1671672859",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pbdefyne.lokals&pli=1"
       }
   }
   
