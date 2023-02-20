@@ -1,6 +1,6 @@
 {
     "mainnet": {
-      "deeplink": "lokals://",
+      "deeplink": "https://lokals.ca/r/",
       "api": "http://192.168.50.181:8080",
       "message": "",
       "privacy_policy": "https://lokals.ca/privacy.html",
@@ -10,7 +10,7 @@
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pbdefyne.lokals&pli=1"
     },
     "testnet": {
-        "deeplink": "http://lokals.ca/redirect/index.html",
+        "deeplink": "https://lokals.ca/r/",
         "api": "https://orca-app-8a8op.ondigitalocean.app",
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
@@ -20,7 +20,7 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pbdefyne.lokals&pli=1"
     },
     "local": {
-        "deeplink": "http://lokals.ca/redirect/index.html",
+        "deeplink": "https://lokals.ca/r/",
         "api": "https://orca-app-8a8op.ondigitalocean.app",
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
