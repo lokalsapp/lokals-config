@@ -21,7 +21,7 @@
     },
     "local": {
         "deeplink": "https://lokals.ca/r/",
-        "api": "https://orca-app-8a8op.ondigitalocean.app",
+        "api": "http://192.168.50.201:8080",
         "message": "",
         "privacy_policy": "https://lokals.ca/privacy.html",
         "terms_conditions": "https://lokals.ca/terms-conditions.html",
