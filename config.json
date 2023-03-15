@@ -1,13 +1,13 @@
 {
     "mainnet": {
-      "deeplink": "https://lokals.ca/r/",
-      "api": "http://192.168.50.181:8080",
-      "message": "",
-      "privacy_policy": "https://lokals.ca/privacy.html",
-      "terms_conditions": "https://lokals.ca/terms-conditions.html",
-      "email": "hello@lokals.ca",
-      "appStoreUrl": "https://apps.apple.com/us/app/lokals-app/id1671672859",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pbdefyne.lokals&pli=1"
+        "deeplink": "https://lokals.ca/r/",
+        "api": "https://orca-app-8a8op.ondigitalocean.app",
+        "message": "",
+        "privacy_policy": "https://lokals.ca/privacy.html",
+        "terms_conditions": "https://lokals.ca/terms-conditions.html",
+        "email": "hello@lokals.ca",
+        "appStoreUrl": "https://apps.apple.com/us/app/lokals-app/id1671672859",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.pbdefyne.lokals&pli=1"
     },
     "testnet": {
         "deeplink": "https://lokals.ca/r/",
