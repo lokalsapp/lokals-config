@@ -2,7 +2,7 @@
     "mainnet": {
         "deeplink": "https://lokals.ca/r/",
         "api": "https://orca-app-8a8op.ondigitalocean.app",
-        "message": "",
+        "message": "Notice: Lokals App will shutdown July 31, 2023. Thank you everyone for using this app.",
         "privacy_policy": "https://lokals.ca/privacy.html",
         "terms_conditions": "https://lokals.ca/terms-conditions.html",
         "email": "hello@lokals.ca",
